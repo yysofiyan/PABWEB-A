@@ -22,7 +22,7 @@
 
 ## Tools, Library and Modul Praktikum 👨🏻‍💻
 
-1. [Tools/Library](http://bit.ly/2tvgSYm) 📥
+1. [Tools/Library](http://bit.ly/2tvgSYm) 📥 | *Gunakan 💌 Kampus*
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
 3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-A/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
 
