@@ -51,7 +51,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
      <!-- Baris 2 Max 7 Akun -->
-     <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+     <td align="center">
+      <a href="https://github.com/AndreasAprillian">
+        <img src="https://avatars3.githubusercontent.com/u/61535950?s=400&u=19ca4795a4964666260a70179e5c1b4221e200e4&v=4" width="100px;" alt=""/><br />
+          <sub><b>Andreas Aprillian</b></sub></a><br />
+          <a href="https://github.com/AndreasAprillian/A2.1800019" title="Link Repo">🔗</a> 
+          <a href="#" title="Documentation">📖</a> 
+          <a href="https://github.com/AndreasAprillian" title="Profile">👀</a> 
+          <a href="#" title="Talks">📢</a></td>
 
   </tr>
   <tr>
