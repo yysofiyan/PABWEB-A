@@ -22,7 +22,7 @@
 
 ## Tools, Library and Modul Praktikum 👨🏻‍💻
 
-1. [Tools/Library](http://bit.ly/2tvgSYm) 📥
+1. [Tools/Library](http://bit.ly/2tvgSYm) 📥 | *Gunakan 💌 Kampus*
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
 3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-A/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
 
@@ -59,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <a href="#" title="Documentation">📖</a> 
           <a href="https://github.com/AndreasAprillian" title="Profile">👀</a> 
           <a href="#" title="Talks">📢</a></td>
+     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61365890?s=400&u=43470f6a4f0ec90f6f83e4ecec8669c8d397fb59&v=4" width="100px;" alt=""/><br /><sub><b>Indra Baskara Saputra</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
 
   </tr>
   <tr>
