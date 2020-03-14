@@ -1,11 +1,10 @@
 ## Hasil Praktikum 1 (Membuat Web Aplikasi Data Siswa) 
 Hasil Akhir Praktek dari Modul Praktikum PHP7, Serta Hasil Meng-Hosting Website Tersebut.
 
-Nama  : Indra Baskara Saputra
-NIM   : A2.1800068
-Kelas : TI-IVA
-Jurusan : Teknik Informatika
-Link WebSite  : a21800068.000webhostapp.com
+0. Nama  : Indra Baskara Saputra
+1. NIM   : A2.1800068
+2. Kelas : TI-IVA
+3. Link WebSite  : a21800068.000webhostapp.com
 
 Development By 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
