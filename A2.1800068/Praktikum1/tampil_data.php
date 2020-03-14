@@ -1,75 +1,65 @@
 <?php
-// pengecekan pencarian data
-// jika dilakukan pencarian data, maka tampilkan kata kunci pencarian
 if (isset($_POST['cari'])) {
-$cari  =  $_POST['cari'];
+	$cari  =  $_POST['cari'];
 }
-// jika tidak maka kosong
 else {
 $cari = "";
 }
 ?>
 
 <div class="row">
-<div  class="col-md-12">
-<?php
-// fungsi untuk menampilkan pesan
-// jika alert = "" (kosong)
-// tampilkan pesan "" (kosong)
-if (empty($_GET['alert'])) {
-echo "";
-}
-// jika alert = 1
-// tampilkan pesan Sukses "Data siswa berhasil disimpan"
-elseif ($_GET['alert'] == 1) { ?>
-<div class="alert alert-success alert-dismissible fade show" role="alert">
-<strong><i  class="fas  fa-check-circle"></i>  Sukses!</strong>  Data  siswa  berhasil disimpan.
-<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-<span aria-hidden="true">&times;</span>
-</button>
-</div>
-<?php
-}
-// jika alert = 2
-// tampilkan pesan Sukses "Data siswa berhasil diubah"
-elseif ($_GET['alert'] == 2) { ?>
-<div class="alert alert-success alert-dismissible fade show" role="alert">
-<strong><i  class="fas  fa-check-circle"></i>  Sukses!</strong>  Data  siswa  berhasil  diubah.
-<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-<span  aria-hidden="true">&times;</span>
-</button>
-</div>
-<?php
-}
-// jika alert = 3
-// tampilkan pesan Sukses "Data siswa berhasil dihapus"
-elseif ($_GET['alert'] == 3) { ?>
-<div class="alert alert-success alert-dismissible fade show" role="alert">
-<strong><i  class="fas  fa-check-circle"></i>  Sukses!</strong>  Data  siswa  berhasil dihapus.
-<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-<span aria-hidden="true">&times;</span>
-</button>
-</div>
-<?php
-}
-// jika alert = 4
-// tampilkan pesan Gagal "NIS sudah ada"
-elseif ($_GET['alert'] == 4) { ?>
-<div class="alert alert-danger alert-dismissible fade show" role="alert">
-<strong><i  class="fas  fa-times-circle"></i>  Gagal!</strong>  NIS  <b><?php  echo  $_GET['nis'];  ?></b> sudah ada.060:	<button type="button" class="close" data-dismiss="alert" aria-label="Close"> 061:		<span aria-hidden="true">&times;</span>
-</button>
-</div>
-<?php
+	<div  class="col-md-12">
+	<?php
+	if (empty($_GET['alert'])) {
+	echo "";
+	}
+	elseif ($_GET['alert'] == 1) { ?>
+	 <div class="alert alert-success alert-dismissible fade show" role="alert">
+	  <strong><i  class="fas  fa-check-circle"></i>  Sukses!</strong>  Data  siswa  berhasil disimpan.
+	  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+		<span aria-hidden="true">&times;</span>
+	  </button>
+	 </div>
+	<?php
+	}
+	elseif ($_GET['alert'] == 2) { ?>
+	  <div class="alert alert-success alert-dismissible fade show" role="alert">
+	<strong><i  class="fas  fa-check-circle"></i>  Sukses!</strong>  Data  siswa  berhasil  diubah.
+	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+	<span  aria-hidden="true">&times;</span>
+	</button>
+	</div>
+	<?php
+	}
+	elseif ($_GET['alert'] == 3) { ?>
+	<div class="alert alert-success alert-dismissible fade show" role="alert">
+	<strong><i  class="fas  fa-check-circle"></i>  Sukses!</strong>  Data  siswa  berhasil dihapus.
+	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+	<span aria-hidden="true">&times;</span>
+	</button>
+	</div>
+	<?php
+	}	
+	elseif ($_GET['alert'] == 4) { ?>
+	<div class="alert alert-danger alert-dismissible fade show" role="alert">
+	<strong><i  class="fas  fa-times-circle"></i>  Gagal!</strong>  NIS  <b><?php  echo  $_GET['nis'];  ?></b> sudah ada.
+	<button type="button" class="close" data-dismiss="alert" aria-label="Close">	
+	<span aria-hidden="true">&times;</span>
+	</button>
+	</div>
+	<?php
 	}
 	?>
-	<form class="mr-3" action="index.php" method="post"> 068:		<div class="form-row">
+	<form class="mr-3" action="index.php" method="post"> 
+	<div class="form-row">
 	<!-- form cari -->
 	<div class="col-3">
 	<input type="text" class="form-control" name="cari" placeholder="Cari NIS atau Nama Siswa" value="<?php echo $cari; ?>">
 	</div>
 	<!-- tombol cari -->
 	<div class="col-8">
-		<button type="submit" class="btn btn-info">Cari</button> 076:	</div>
+		<button type="submit" class="btn btn-info">Cari</button> 
+			</div>
 	<!-- tombol tambah data -->
 	<div class="col">
 	<a  class="btn  btn-info"  href="?page=tambah"  role="button"><i  class="fas  fa-plus"></i> Tambah</a>
@@ -77,7 +67,8 @@ elseif ($_GET['alert'] == 4) { ?>
 	</div>
 	</form>
 
-	<!-- Tabel siswa untuk menampilkan data siswa dari database --> 085:	<table class="table table-striped table-bordered">
+	<!-- Tabel siswa untuk menampilkan data siswa dari database -->
+	<table class="table table-striped table-bordered">
 	<thead>
 	<tr>
 	<th>No.</th>
@@ -95,62 +86,55 @@ elseif ($_GET['alert'] == 4) { ?>
 
 	<tbody>
 	<?php
-	//  Pagination   	
-	//  jumlah  data  yang  ditampilkan  setiap halaman 105:	$batas  =  5;
-	//  jika  dilakukan  pencarian  data 107:	if  (isset($cari))  {
-	//  perintah  query  untuk  menampilkan  jumlah  data  siswa  dari  database  berdasarkan  nis  atau nama yang sesuai dengan kata kunci pencarian
+	$batas  =  5;	
+	if  (isset($cari))  {
 	$query_jumlah  =  mysqli_query($db,  "SELECT  count(nis)  as  jumlah  FROM  tbl_siswa WHERE nis LIKE '%$cari%' OR nama LIKE '%$cari%'") or  die('Ada  kesalahan  pada  query  jumlah:'.mysqli_error($db));	}
-//  jika  tidak  dilakukan  pencarian data 113:	else  {
-   	//  perintah  query  untuk  menampilkan  jumlah  data  siswa  dari database
+	else  {
    	$query_jumlah  =  mysqli_query($db,  "SELECT  count(nis)  as  jumlah  FROM  tbl_siswa")
-   		or  die('Ada  kesalahan  pada  query  jumlah:'.mysqli_error($db)); 117:	}
-  	//  tampilkan  jumlah  data
-    	$data_jumlah  =  mysqli_fetch_assoc($query_jumlah); 120:	$jumlah	=  $data_jumlah['jumlah'];
+		   or  die('Ada  kesalahan  pada  query  jumlah:'.mysqli_error($db));	
+	}
+	$data_jumlah  =  mysqli_fetch_assoc($query_jumlah);	
+	$jumlah	=  $data_jumlah['jumlah'];
    	$halaman	=  ceil($jumlah  /  $batas);
-   	$page	=  (isset($_GET['hal']))  ?  (int)$_GET['hal']  :  1; 123:	$mulai	=  ($page  -  1)  *  $batas;
-    	//   	
-    	//  nomor  urut  tabel
+	   $page	=  (isset($_GET['hal']))  ?  (int)$_GET['hal']  :  1; 
+	   	$mulai	=  ($page  -  1)  *  $batas;
     	$no  =  $mulai  +  1;
-   	//  jika  dilakukan  pencarian  data 128:	if  (isset($cari))  {
-  	//  perintah  query  untuk  menampilkan  data  siswa  dari  database  berdasarkan  nis  atau  nama yang sesuai dengan kata kunci pencarian
-   	//  data  yang  ditampilkan  mulai  =  $mulai  sampai  dengan  batas  = $batas 131:	$query  =  mysqli_query($db,  "SELECT  *  FROM  tbl_siswa
+	  
+	   if  (isset($cari))  {	
+	   $query  =  mysqli_query($db,  "SELECT  *  FROM  tbl_siswa
     WHERE nis LIKE '%$cari%' OR nama LIKE '%$cari%' ORDER BY nis DESC LIMIT $mulai, $batas")
-    		or  die('Ada  kesalahan  pada  query  siswa:  '.mysqli_error($db)); 133:	}
-    	//  jika  tidak  dilakukan  pencarian data 135:	else  {
-    	//  perintah  query  untuk  menampilkan  data  siswa  dari  database
-   	//  data  yang  ditampilkan  mulai  =  $mulai  sampai  dengan  batas  =  $batas
-    		$query  =  mysqli_query($db,  "SELECT  *  FROM  tbl_siswa  ORDER  BY  nis  DESC  LIMIT  $mulai,  $batas") 139:			or  die('Ada  kesalahan  pada  query  siswa:  '.mysqli_error($db)); 140:	}
-    	//  tampilkan  data
-    	while  ($data  =  mysqli_fetch_assoc($query))  {  ?> 143:		<tr>
-    	<td width="30" class="center"><?php echo $no; ?></td>
- 	<td  width="45"><img  class="foto-thumbnail"  src='foto/<?php  echo  $data['foto'];  ?>' alt="Foto Siswa"></td>
-    	<td width="80" class="center"><?php echo $data['nis']; ?></td> 147:	<td width="180"><?php echo $data['nama']; ?></td>
-    	<td  width="180"><?php  echo  $data['tempat_lahir'];  ?>,  <?php  echo  date('d-m-Y', strtotime($data['tanggal_lahir'])); ?></td>
-  	<td width="120"><?php echo $data['jenis_kelamin']; ?></td> 150:	<td width="100"><?php echo $data['agama']; ?></td>
+    		or  die('Ada  kesalahan  pada  query  siswa:  '.mysqli_error($db));	}
+		else  {
+			$query  =  mysqli_query($db,  "SELECT  *  FROM  tbl_siswa  ORDER  BY  nis  DESC  LIMIT  $mulai,  $batas") 		
+			or  die('Ada  kesalahan  pada  query  siswa:  '.mysqli_error($db));	}
+    	while  ($data  =  mysqli_fetch_assoc($query))  {  ?> 		<tr>
+    <td width="30" class="center"><?php echo $no; ?></td>
+ 	<td width="45"><img  class="foto-thumbnail"  src='foto/<?php  echo  $data['foto'];  ?>' alt="Foto Siswa"></td>
+    <td width="80" class="center"><?php echo $data['nis']; ?></td>	
+	<td width="180"><?php echo $data['nama']; ?></td>
+    <td width="180"><?php echo $data['tempat_lahir'];  ?>,  <?php  echo  date('d-m-Y', strtotime($data['tanggal_lahir'])); ?></td>
+  	<td width="120"><?php echo $data['jenis_kelamin']; ?></td>
+	<td width="100"><?php echo $data['agama']; ?></td>
   	<td width="180"><?php echo $data['alamat']; ?></td>
-  	<td width="70" class="center"><?php echo $data['no_hp']; ?></td> 153:		// membuat tombol ubah dan hapus
+  	<td width="70" class="center"><?php echo $data['no_hp']; ?></td>
    	<td width="120" class="center">
    	<a title="Ubah" class="btn btn-outline-info"
-    href="?page=ubah&nis=<?php  echo  $data['nis'];  ?>"><i  class="fas  fa-edit"></i></a> 156:	<a title="Hapus" class="btn btn-outline-danger"
+    href="?page=ubah&nis=<?php  echo  $data['nis'];  ?>"><i  class="fas  fa-edit"></i></a>
+	<a title="Hapus" class="btn btn-outline-danger"
     href="proses_hapus.php?nis=<?php  echo  $data['nis'];?>" onclick="return confirm('Anda yakin ingin menghapus
-    siswa  <?php  echo  $data['nama'];  ?>?');"><i  class="fas  fa-trash"></i></a> 157:	</td>
+    siswa  <?php  echo  $data['nama'];  ?>?');"><i  class="fas  fa-trash"></i></a> 
+	</td>
    	</tr>
     	<?php
    	$no++;
     	}  ?>
     	</tbody>
   	</table>
-    <!-- Tampilkan Pagination -->
 <?php
-// fungsi untuk pengecekan halaman aktif
-// jika halaman kosong atau tidak ada yang dipilih
 if (empty($_GET['hal'])) {
-// halaman aktif = 1
 $halaman_aktif = '1';
 }
-// selain itu
 else {
-// halaman aktif = sesuai yang dipilih
 $halaman_aktif  =  $_GET['hal'];
 }
 ?>

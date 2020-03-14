@@ -5,7 +5,7 @@ $username="root";
 $password="";
 $database="db_sekolah";
 
-$db=mysqli_connect($server, $username< $password, $database);
+$db=mysqli_connect($server, $username, $password, $database);
 
 if(!$db){
 
