@@ -45,13 +45,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <!-- Baris Pertama -->
-    <!-- isi profile akun github anda di bawah baris ke 2 -->
-
-  </tr>
-  <tr>
-     <!-- Baris 2 Max 7 Akun -->
-     <td align="center">
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61365890?s=400&u=43470f6a4f0ec90f6f83e4ecec8669c8d397fb59&v=4" width="100px;" alt=""/><br /><sub><b>Indra Baskara Saputra</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center">
       <a href="https://github.com/AndreasAprillian">
         <img src="https://avatars3.githubusercontent.com/u/61535950?s=400&u=19ca4795a4964666260a70179e5c1b4221e200e4&v=4" width="100px;" alt=""/><br />
           <sub><b>Andreas Aprillian</b></sub></a><br />
@@ -59,20 +54,24 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <a href="#" title="Documentation">📖</a> 
           <a href="https://github.com/AndreasAprillian" title="Profile">👀</a> 
           <a href="#" title="Talks">📢</a></td>
-     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61365890?s=400&u=43470f6a4f0ec90f6f83e4ecec8669c8d397fb59&v=4" width="100px;" alt=""/><br /><sub><b>Indra Baskara Saputra</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-
+    <!-- Baris Pertama -->
+    <!-- isi profile akun github anda di bawah baris ke 2 -->
+  </tr>
+  <tr>
+     <!-- Baris 2 Max 7 Akun -->
+     <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
   <tr>
     <!-- Baris ke 3 Max 7 Akun-->
-    <td align="center"><a href="#"><img src="https://c7.uihere.com/files/706/515/789/computer-icons-facepalm-clip-art-share-icon-portable-network-graphics-vector-students.jpg" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    
   </tr>
   <tr>
     <!-- Baris Ke 4 Mak 7 Akun-->
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    
   </tr>
   <tr>
    <!-- Baris Ke 5 Mak 7 Akun-->
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT3hGJUo5j3nTTldqbXyDsugTGvJYpV5_2jtc-oyOv0_xS-QtQ3" width="100px;" alt=""/><br /><sub><b>ISI NAMA ANDA</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    
   </tr>
   <tr>
 
