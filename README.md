@@ -45,7 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61365890?s=400&u=43470f6a4f0ec90f6f83e4ecec8669c8d397fb59&v=4" width="100px;" alt=""/><br /><sub><b>Indra Baskara Saputra</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61365890?s=400&u=43470f6a4f0ec90f6f83e4ecec8669c8d397fb59&v=4" width="100px;" alt=""/><br /><sub><b>Indra Baskara Saputra 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
     <td align="center">
       <a href="https://github.com/AndreasAprillian">
         <img src="https://avatars3.githubusercontent.com/u/61535950?s=400&u=19ca4795a4964666260a70179e5c1b4221e200e4&v=4" width="100px;" alt=""/><br />
