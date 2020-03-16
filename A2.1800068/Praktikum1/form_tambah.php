@@ -1,5 +1,5 @@
 <div class="row">
-div  class="col-md-12">
+<div  class="col-md-12">
 <div class="alert alert-info" role="alert">
 <i  class="fas  fa-edit"></i>  Input  Data  Siswa
 </div>
@@ -11,7 +11,7 @@ div  class="col-md-12">
 <div class="col">
 <div  class="form-group  col-md-12">
 <label>NIS</label>
-<input type="text" class="form-control" name="nis" maxlength="5"
+<input type="text" class="form-control" name="nis" maxlength="10"
 onKeyPress="return goodchars(event,'0123456789',this)" autocomplete="off" required>
 <div class="invalid-feedback">NIS tidak boleh kosong.</div>
 </div>
@@ -35,47 +35,60 @@ onKeyPress="return goodchars(event,'0123456789',this)" autocomplete="off" requir
 </div>
 </div>
 
-<div  class="form-group  col-md-12"> 39:		<label>Agama</label>
-<select class="form-control" name="agama" autocomplete="off" required> 41:		<option value=""></option>
+<div  class="form-group  col-md-12">		
+<label>Agama</label>
+<select class="form-control" name="agama" autocomplete="off" required>		
+<option value=""></option>
 <option value="Islam">Islam</option>
 <option value="Kristen Protestan">Kristen Protestan</option>
 <option value="Kristen Katolik">Kristen Katolik</option>
 <option value="Hindu">Hindu</option>
 <option value="Buddha">Buddha</option>
 	</select>
-	<div class="invalid-feedback">Agama tidak boleh kosong.</div> 49:	</div>
+	<div class="invalid-feedback">Agama tidak boleh kosong.</div>	
+	</div>
 	</div>
 
 <div class="col">
 <div  class="form-group  col-md-12">
 <label>Tempat Lahir</label>
 <input type="text" class="form-control" name="tempat_lahir" autocomplete="off" required>
-	<div class="invalid-feedback">Tempat Lahir tidak boleh kosong.</div> 57:	</div>
+	<div class="invalid-feedback">Tempat Lahir tidak boleh kosong.</div> 	
+	</div>
 
-	<div  class="form-group  col-md-12"> 60:		<label>Tanggal Lahir</label>
+	<div  class="form-group  col-md-12"> 	
+	<label>Tanggal Lahir</label>
 <input  type="text"  class="form-control  date-picker"  data-date-format="dd-mm-yyyy" name="tanggal_lahir" autocomplete="off" required>
-	<div class="invalid-feedback">Tanggal Lahir tidak boleh kosong.</div> 63:	</div>
+	<div class="invalid-feedback">Tanggal Lahir tidak boleh kosong.</div> 	
+	</div>
 
-	<div  class="form-group  col-md-12"> 66:		<label>Alamat</label>
+	<div  class="form-group  col-md-12"> 		
+	<label>Alamat</label>
 	<textarea class="form-control" rows="2" name="alamat" autocomplete="off" required></textarea>
-	<div class="invalid-feedback">Alamat tidak boleh kosong.</div> 69:	</div>
+	<div class="invalid-feedback">Alamat tidak boleh kosong.</div> 
+		</div>
 
-	<div  class="form-group  col-md-12"> 72:		<label>No. HP</label>
+	<div  class="form-group  col-md-12"> 		
+	<label>No. HP</label>
 	<input type="text" class="form-control" name="no_hp" maxlength="13" onKeyPress="return goodchars(event,'0123456789',this)" autocomplete="off" required>
-		<div class="invalid-feedback">No. HP  tidak  boleh  kosong.</div>  75:	</div>
+		<div class="invalid-feedback">No. HP  tidak  boleh  kosong.</div>  
+			</div>
 	</div>
 
 	<div class="col">
-<div  class="form-group  col-md-12"> 80:		<label>Foto siswa</label>
+<div  class="form-group  col-md-12">	
+	<label>Foto siswa</label>
 	<input  type="file"  class="form-control-file  mb-3"  id="foto"  name="foto" onchange="return validasiFile()" autocomplete="off" required>
-	<div id="imagePreview"><img class="foto-preview" src="foto/default.png"/></div> 83:	<div class="invalid-feedback">Foto siswa tidak boleh kosong.</div>
+	<div id="imagePreview"><img class="foto-preview" src="foto/default.png"/></div>
+	<div class="invalid-feedback">Foto siswa tidak boleh kosong.</div>
 	</div>
 	</div>
 	</div>
 
-	<div  class="my-md-4  pt-md-1  border-top">  </div> 89:
+	<div  class="my-md-4  pt-md-1  border-top">  </div>
 	<div  class="form-group  col-md-12  right">
-	<input type="submit" class="btn btn-info btn-submit mr-2" name="simpan" value="Simpan"> 92:	<a href="index.php" class="btn btn-secondary btn-reset"> Batal </a>
+	<input type="submit" class="btn btn-info btn-submit mr-2" name="simpan" value="Simpan">
+	<a href="index.php" class="btn btn-secondary btn-reset"> Batal </a>
 	</div>
 </form>
 	</div>
