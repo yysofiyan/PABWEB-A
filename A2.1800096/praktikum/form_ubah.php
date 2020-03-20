@@ -24,7 +24,6 @@ $foto	=  $data['foto'];
 	</div>
 	<div class="card">
 	<div class="card-body">
-	<!-- form ubah data siswa -->
 	<form class="needs-validation" action="proses_ubah.php" method="post" enctype="multipart/form-data" novalidate>
 	<div class="row">
 	<div class="col">

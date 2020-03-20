@@ -2,33 +2,33 @@
 require_once "config/database.php";
 ?>
 
-<!doctype  html>	<!-- HTML 5 Tag -->
-<html  lang="en">	<!-- tag pembuka HTML -->
+<!doctype  html>	
+<html  lang="en">	
     <head>
-        <!-- Required meta tags -->
+        
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="Aplikasi Pengelolaan Data Siswa dengan PHP 7, MySQLi, dan Bootstrap 4">
         <meta name="keywords" content="Aplikasi Pengelolaan Data Siswa dengan PHP 7, MySQLi, dan Bootstrap 4">
         <meta name="author" content="Naufal M T">
 
-        <!-- favicon -->
+        
         <link rel="shortcut icon" href="assets/img/favicon.png">
-        <!-- Bootstrap CSS -->
+        
         <link rel="stylesheet" type="text/css" href="assets/plugins/bootstrap-4.1.3/css/bootstrap.min.css">
-        <!-- datepicker CSS -->
+       
         <link rel="stylesheet" type="text/css" href="assets/plugins/datepicker/css/datepicker.min.css">
-        <!-- Font Awesome CSS -->
+        
         <link rel="stylesheet" type="text/css" href="assets/plugins/fontawesome-free-5.4.1-web/css/all.min.css">
-        <!-- Custom CSS -->
+        
         <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-        <!-- title -->
+       
         <title>Data Siswa</title>
     </head>
     <body>
         <div class="container-fluid">
             <div  class="d-flex  flex-column  flex-md-row  align-items-center  p-3  px-md-4  mb-3  bg-whiteborder-bottom shadow-sm">
-            <h5  class="my-0  mr-md-auto  font-weight-normal"><i  class="fas  fa-user  title-icon"></i>  Data Siswa</h5>
+            <h5  class="my-0  mr-md-auto  font-weight-normal"><i  class="fas  fa-user  title-icon"></i>  Data Siswa By Naufal M T</h5>
     </div>
     </div>
 

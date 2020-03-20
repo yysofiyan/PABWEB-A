@@ -1,11 +1,10 @@
-<div class="row">
+div class="row">
 <div  class="col-md-12">
 <div class="alert alert-info" role="alert">
 <i  class="fas  fa-edit"></i>  Input  Data  Siswa
 </div>
 <div class="card">
 <div class="card-body">
-<!-- form tambah data siswa -->
 <form class="needs-validation" action="proses_simpan.php" method="post" enctype="multipart/form-data" novalidate>
 <div class="row">
 <div class="col">
