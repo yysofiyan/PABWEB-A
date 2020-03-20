@@ -1,4 +1,11 @@
 # Repositori Praktikum Pengembangan Aplikasi Berbasis Web
+<p align="left">
+<a href="#"><img src="http://hits.dwyl.com/yysofiyan/PABWEB-A.svg"></a>
+<a href="#"><img src="https://img.shields.io/bitbucket/pr-raw/yysofiyan/PABWEB-A?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/github/repo-size/yysofiyan/PABWEB-A?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/github/commit-activity/w/yysofiyan/PABWEB-A?style=flat-square"></a>
+</p>
+
 #### Group : A , Hari & Jam: Sabtu - 13:00 s.d 16:20, ruang:R1
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
@@ -22,9 +29,11 @@
 
 ## Tools, Library and Modul Praktikum 👨🏻‍💻
 
-1. [Tools/Library](http://bit.ly/2tvgSYm) 📥
+1. [Tools/Library](http://bit.ly/2tvgSYm) 📥 | *Gunakan 💌 Kampus*
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
 3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-A/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
+4. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-A/tree/master/Modul%20Praktikum%20Codeigniter) 📥 🔥
+5. [Modul Praktikum Laravel](#) 
 
 ## Referensi 📖
 
@@ -45,16 +54,21 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61365890?s=400&u=43470f6a4f0ec90f6f83e4ecec8669c8d397fb59&v=4" width="100px;" alt=""/><br /><sub><b>Indra Baskara Saputra 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center">
+      <a href="https://github.com/AndreasAprillian">
+        <img src="https://avatars3.githubusercontent.com/u/61535950?s=400&u=19ca4795a4964666260a70179e5c1b4221e200e4&v=4" width="100px;" alt=""/><br />
+          <sub><b>Andreas Aprillian</b></sub></a><br />
+          <a href="https://github.com/AndreasAprillian/A2.1800019" title="Link Repo">🔗</a> 
+          <a href="#" title="Documentation">📖</a> 
+          <a href="https://github.com/AndreasAprillian" title="Profile">👀</a> 
+          <a href="#" title="Talks">📢</a></td>
     <!-- Baris Pertama -->
     <!-- isi profile akun github anda di bawah baris ke 2 -->
-
   </tr>
   <tr>
      <!-- Baris 2 Max 7 Akun -->
-     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61378920?s=460&u=cb85b3a4a2c1012cfe7f568ffd4bf38828d47832&v=4" width="100px;" alt=""/><br /><sub><b>Naufal M T</b></sub></a><br /><a href="#" title="https://github.com/naufalmt?tab=repositories">🔗</a> <a href="#" title="https://www.instagram.com/naufalm000/?hl=id">📖</a> <a href="#" title="https://github.com/naufalmt">👀</a> <a href="#" title="Talks">📢</a></td>
 
-  </tr>
-  
 
   </tr>
 </table>
