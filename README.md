@@ -1,6 +1,6 @@
 # Repositori Praktikum Pengembangan Aplikasi Berbasis Web
 <p align="left">
-<a href="#"><img src="http://hits.dwyl.com/yysofiyan/PABWEB-A.svg"></a>
+<a href="#"><img src="https://hits.dwyl.com/yysofiyan/PABWEB-A.svg"></a>
 <a href="#"><img src="https://img.shields.io/bitbucket/pr-raw/yysofiyan/PABWEB-A?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/repo-size/yysofiyan/PABWEB-A?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/yysofiyan/PABWEB-A?style=flat-square"></a>
@@ -15,7 +15,7 @@
 3. Didalam direktori **NIM** anda, buat sub direktori dengan nama _**Praktikum_n**_.
    > *Contoh **Praktikum_1** untuk Tugas pada Praktikum Pertemuan Pertama*  
 4. Seluruh berkas **Tugas Praktikum** pertemuan ke-_**n**_ dismpan pada direktori _**Praktikum_n**_.
-   > - Berkas tugas berupa  `struktur file selama mengerjakan praktikum`.
+   > - Berkas tugas berupa  `kode (source code) selama mengerjakan praktikum`.
    > - Format penamaan berkas : `nim_nama`
 5. **Push** berkas tugas anda ke repositori hasil *fork* pada *branch* **NIM** anda.
 6. Buat **Pull Request** untuk **Merge** *branch* **NIM** dengan *branch* **master** pada repositori ini.
