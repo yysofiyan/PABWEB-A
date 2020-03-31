@@ -31,7 +31,8 @@
 
 1. [Tools/Library](http://bit.ly/2tvgSYm) 📥 | *Gunakan 💌 Kampus*
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
-3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-A/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
+3. [Modul Praktikum Git & Github](https://github.com/yysofiyan/PABWEB-A/tree/master/Modul%20Praktikum%20Git%20%26%20Github) :octocat:
+4. [Modul Praktikum PHP7](https://github.com/yysofiyan/PABWEB-A/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
 4. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-A/tree/master/Modul%20Praktikum%20Codeigniter) 📥 🔥
 5. [Modul Praktikum Laravel](#) 
 
@@ -63,11 +64,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
           <a href="#" title="Documentation">📖</a> 
           <a href="https://github.com/naufalmt" title="Profile">👀</a> 
           <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61378920?s=460&u=cb85b3a4a2c1012cfe7f568ffd4bf38828d47832&v=4" width="100px;" alt=""/><br /><sub><b>Naufal MT 🥇</b></sub></a><br /><a href="#" title="https://github.com/naufalmt?tab=repositories">🔗</a> <a href="#" title="https://www.instagram.com/naufalm000/?hl=id">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td><!-- Baris Pertama -->
-    <!-- isi profile akun github anda di bawah baris ke 2 -->
-  </tr>
-  <tr>
-     <!-- Baris 2 Max 7 Akun -->
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61378920?s=460&u=cb85b3a4a2c1012cfe7f568ffd4bf38828d47832&v=4" width="100px;" alt=""/><br /><sub><b>Naufal MT 🥇</b></sub></a><br /><a href="#" title="https://github.com/naufalmt?tab=repositories">🔗</a> <a href="#" title="https://www.instagram.com/naufalm000/?hl=id">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td> <!-- Baris Pertama -->
+<!-- isi profile akun github anda di bawah baris ke 2 -->
+<!-- Baris 2 Max 5 Akun -->
 
 
   </tr>
