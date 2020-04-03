@@ -1,11 +1,11 @@
 <?php
 date_default_timezone_set("ASIA/JAKARTA");
 $server="localhost";
-$username="root";
-$password="";
-$database="db_sekolah";
+$username="id12920684_admin";
+$password="12345";
+$database="id12920684_db_sekolah";
 
-$db=mysqli_connect($server, $username< $password, $database);
+$db=mysqli_connect($server, $username, $password, $database);
 
 if(!$db){
 
