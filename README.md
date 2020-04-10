@@ -55,7 +55,24 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61365890?s=400&u=43470f6a4f0ec90f6f83e4ecec8669c8d397fb59&v=4" width="100px;" alt=""/><br /><sub><b>Indra Baskara Saputra 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <td align="center">
+      <a href="https://github.com/AndreasAprillian">
+        <img src="https://avatars3.githubusercontent.com/u/61535950?s=400&u=19ca4795a4964666260a70179e5c1b4221e200e4&v=4" width="100px;" alt=""/><br />
+          <sub><b>Andreas Aprillian 🥇</b></sub></a><br />
+          <a href="https://github.com/AndreasAprillian/A2.1800019" title="Link Repo">🔗</a> 
+          <a href="#" title="Documentation">📖</a> 
+          <a href="https://github.com/naufalmt" title="Profile">👀</a> 
+          <a href="#" title="Talks">📢</a></td>
+    <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/61378920?s=460&u=cb85b3a4a2c1012cfe7f568ffd4bf38828d47832&v=4" width="100px;" alt=""/><br /><sub><b>Naufal MT<br>🥇🥇</b></sub></a><br /><a href="#" title="https://github.com/naufalmt?tab=repositories">🔗</a> <a href="#" title="https://www.instagram.com/naufalm000/?hl=id">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td> 
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/61614434?s=400&u=cb356fc4c690a80626a35e25bb1706f1a687f9fb&v=4" width="100px;" alt=""/><br /><sub><b>Vetty Apriliani 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+    <!-- Baris Pertama end-->
+    <!-- baris Ke Dua Next-->
+<tr>
+   </tr>
+   <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61607582?s=400&u=10d59862fb1ca608439f135b2635fee677fa44c6&v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Wildan Nur 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+   <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61613162?s=400&u=6d6b65bde263656903dddd35050c5f342d9458a6&v=4" width="100px;" alt=""/><br /><sub><b>Raka Patyan Aulia 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
