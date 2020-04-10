@@ -1,4 +1,11 @@
 # Repositori Praktikum Pengembangan Aplikasi Berbasis Web
+<p align="left">
+<a href="#"><img src="https://hits.dwyl.com/yysofiyan/PABWEB-A.svg"></a>
+<a href="#"><img src="https://img.shields.io/bitbucket/pr-raw/yysofiyan/PABWEB-A?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/github/repo-size/yysofiyan/PABWEB-A?style=flat-square"></a>
+<a href="#"><img src="https://img.shields.io/github/commit-activity/w/yysofiyan/PABWEB-A?style=flat-square"></a>
+</p>
+
 #### Group : A , Hari & Jam: Sabtu - 13:00 s.d 16:20, ruang:R1
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
@@ -8,7 +15,7 @@
 3. Didalam direktori **NIM** anda, buat sub direktori dengan nama _**Praktikum_n**_.
    > *Contoh **Praktikum_1** untuk Tugas pada Praktikum Pertemuan Pertama*  
 4. Seluruh berkas **Tugas Praktikum** pertemuan ke-_**n**_ dismpan pada direktori _**Praktikum_n**_.
-   > - Berkas tugas berupa  `struktur file selama mengerjakan praktikum`.
+   > - Berkas tugas berupa  `kode (source code) selama mengerjakan praktikum`.
    > - Format penamaan berkas : `nim_nama`
 5. **Push** berkas tugas anda ke repositori hasil *fork* pada *branch* **NIM** anda.
 6. Buat **Pull Request** untuk **Merge** *branch* **NIM** dengan *branch* **master** pada repositori ini.
@@ -22,9 +29,12 @@
 
 ## Tools, Library and Modul Praktikum 👨🏻‍💻
 
-1. [Tools/Library](http://bit.ly/2tvgSYm) 📥
+1. [Tools/Library](http://bit.ly/2tvgSYm) 📥 | *Gunakan 💌 Kampus*
 2. [Visual Studio Code](https://code.visualstudio.com) 📥
-3. [Modul Praktikum](https://github.com/yysofiyan/PABWEB-A/blob/master/Modul%20Praktikum%20Pengembangan%20Aplikasi%20Berbasis%20Web%20(1)%20(1)%20(2).pdf) 📥
+3. [Modul Praktikum Git & Github](https://github.com/yysofiyan/PABWEB-A/tree/master/Modul%20Praktikum%20Git%20%26%20Github) :octocat:
+4. [Modul Praktikum PHP7](https://github.com/yysofiyan/PABWEB-A/tree/master/Modul%20Praltikum%20PHP7) 📥
+4. [Modul Praktikum Codeigniter](https://github.com/yysofiyan/PABWEB-A/tree/master/Modul%20Praktikum%20Codeigniter) 📥 🔥
+5. [Modul Praktikum Laravel](#) 
 
 ## Referensi 📖
 
@@ -45,9 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-  <tr>
-    <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61613926?s=460&u=dfd311ec545d5128bda52d4f103ce169776f7ff8&v=4" width="100px;" alt=""/><br /><sub><b>Mellawati</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    
+
 </table>
 
 <!-- markdownlint-enable -->
