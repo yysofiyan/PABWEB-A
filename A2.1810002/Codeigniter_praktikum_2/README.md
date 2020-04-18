@@ -3,7 +3,9 @@
 Hasil Akhir Praktek dari Modul 2
 
 Nama  : Diana Megalistina
+
 NIM   : A2.1810002
+
 Kelas : TI-IVA
 
 <table>
