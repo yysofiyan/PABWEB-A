@@ -72,6 +72,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
    </tr>
    <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61607582?s=400&u=10d59862fb1ca608439f135b2635fee677fa44c6&v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Wildan Nur 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
    <td align="center"><a href="#"><img src="https://avatars2.githubusercontent.com/u/61613162?s=400&u=6d6b65bde263656903dddd35050c5f342d9458a6&v=4" width="100px;" alt=""/><br /><sub><b>Raka Patyan Aulia 🥇</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
+   <td align="center"><a href="#"><img src="https://avatars3.githubusercontent.com/u/61613638?s=400&u=66a72f5d18d51908b8212c81ce84ae8ae9eedc02&v=4" width="100px;" alt=""/><br /><sub><b>Viona Saprila Valentina Dinata</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
   </tr>
 </table>
 
